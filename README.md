@@ -16,3 +16,13 @@
 Если django не инициализируется, то выполнить:
 
 <code>pip install django</code>
+
+Запуск проекта
+
+В терминале прописать:
+
+<code>python manage.py makemigrations</code>
+
+<code>python manage.py migrate</code>
+
+<code>python manage.py runserver</code>
